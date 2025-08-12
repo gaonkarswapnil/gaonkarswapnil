@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 I'm passionate about Software Development, specializing in Java, Kotlin, and Android. I’m constantly learning and evolving, and here, you can explore my latest projects and contributions. Currently working at NeoSOFT Technologies as a Software Engineer.
 
 
-## 🌱 Currently Learning
+## 💻 I’m currently working on:
 
 - Android Application Development
 - Java (Spring Boot) Backend Development
