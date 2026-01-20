@@ -79,7 +79,7 @@ Currently working at **NeoSOFT Technologies** as a **Software Engineer**.
 
 - Advanced Spring Microservices  
 - Android performance optimization
-- Cloud-native development
+<!-- - Cloud-native development -->
 
 
 ## 📫 Let's Connect
