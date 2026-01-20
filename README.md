@@ -77,9 +77,13 @@ Currently working at **NeoSOFT Technologies** as a **Software Engineer**.
 
 ## 🌱 Currently Learning
 
-- Advance concepts Android
-- Java Spring Boot
+- Advanced Spring Microservices  
+- Android performance optimization
+- Cloud-native development
 
+
+## 📫 Let's Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/swapnil-gaonkar-663b7216b/
 <!--
 **gaonkarswapnil/gaonkarswapnil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
