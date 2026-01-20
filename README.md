@@ -1,23 +1,27 @@
 ## Hi there, I'm Swapnil Gaonkar 👋
 Welcome to my GitHub profile!
-I'm passionate about Software Development, specializing in Java, Kotlin, and Android. I’m constantly learning and evolving, and here, you can explore my latest projects and contributions. Currently working at NeoSOFT Technologies as a Software Engineer.
+I'm a passionate **Software Developer** specializing in **Java, Kotlin, and Android Development**. I enjoy building scalable applications, learning new technologies, and continuously improving my skills.
+Currently working at **NeoSOFT Technologies** as a **Software Engineer**.
 
 
 ## 💻 I’m currently working on:
 
 - Android Application Development
-- Java (Spring Boot) Backend Development
+- Backend Development using **Java & Spring Boot**
 
 
 ## 🔧 Technologies & Tools
-
+<!--
 - **Languages**: Java, Python, JavaScript, C++, Kotlin
 - **Web Development**: HTML, CSS, JavaScript, XML, JSP/Servlets
 - **Frameworks & Libraries**: Spring Boot, Jetpack Compose, RxJava, LiveData, WorkManager
 - **Android Development**: MVVM Architecture, Room Database, ViewModel, Coroutines, Retrofit, Firebase(Crashlytics, App Distribution)
 - **Databases**: MySQL, Room(Android)
 - **Tools & Platforms**: Git, Android Studio, Postman, Firebase, IntelliJ IDEA
-- **Operating Systems**: Windows, Linux
+- **Operating Systems**: Windows, Linux -->
+
+### 🧑‍💻 Languages
+- Java, Kotlin, Python, JavaScript, C++
 
 
 ## 🌱 Currently Learning
