@@ -25,8 +25,6 @@ Currently working at **NeoSOFT Technologies** as a **Software Engineer**.
 - Kotlin  
 - Python  
 - SQL
-  
----
 
 ### ⚙️ Backend Development
 - Spring Boot  
@@ -35,8 +33,6 @@ Currently working at **NeoSOFT Technologies** as a **Software Engineer**.
 - Microservices  
 - Maven  
 - JSP & Servlets
-
----
 
 ### 📱 Mobile Development (Android)
 - Android Development  
@@ -47,13 +43,9 @@ Currently working at **NeoSOFT Technologies** as a **Software Engineer**.
 - Retrofit  
 - Firebase
 
----
-
 ### 🌐 Web Technologies
 - HTML, CSS, JavaScript  
 - XML, JSON
-
----
 
 ### 📚 Frameworks & Libraries
 - Spring Framework  
@@ -63,13 +55,9 @@ Currently working at **NeoSOFT Technologies** as a **Software Engineer**.
 - Retrofit  
 - WorkManager  
 
----
-
 ### 🗄️ Databases
 - MySQL  
 - Room (Android)
-
----
 
 ### 🧰 Tools & Platforms
 - Git & GitHub  
@@ -78,8 +66,6 @@ Currently working at **NeoSOFT Technologies** as a **Software Engineer**.
 - Postman  
 - Firebase  
 - AWS
-
----
 
 ### 🧩 Design Patterns & Practices
 - Singleton  
