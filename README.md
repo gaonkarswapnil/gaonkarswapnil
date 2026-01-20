@@ -10,7 +10,7 @@ Currently working at **NeoSOFT Technologies** as a **Software Engineer**.
 - Backend Development using **Java & Spring Boot**
 
 
-## 🔧 Technologies & Tools
+## 🛠️ Technologies & Tools
 <!--
 - **Languages**: Java, Python, JavaScript, C++, Kotlin
 - **Web Development**: HTML, CSS, JavaScript, XML, JSP/Servlets
@@ -20,8 +20,73 @@ Currently working at **NeoSOFT Technologies** as a **Software Engineer**.
 - **Tools & Platforms**: Git, Android Studio, Postman, Firebase, IntelliJ IDEA
 - **Operating Systems**: Windows, Linux -->
 
-### 🧑‍💻 Languages
-- Java, Kotlin, Python, JavaScript, C++
+### 💻 Programming Languages
+- Java  
+- Kotlin  
+- Python  
+- SQL
+  
+---
+
+### ⚙️ Backend Development
+- Spring Boot  
+- Spring Security  
+- RESTful APIs  
+- Microservices  
+- Maven  
+- JSP & Servlets
+
+---
+
+### 📱 Mobile Development (Android)
+- Android Development  
+- MVVM & Clean Architecture  
+- Jetpack Compose  
+- Room Database  
+- Kotlin Coroutines  
+- Retrofit  
+- Firebase
+
+---
+
+### 🌐 Web Technologies
+- HTML, CSS, JavaScript  
+- XML, JSON
+
+---
+
+### 📚 Frameworks & Libraries
+- Spring Framework  
+- Jetpack Compose  
+- RxJava  
+- LiveData  
+- Retrofit  
+- WorkManager  
+
+---
+
+### 🗄️ Databases
+- MySQL  
+- Room (Android)
+
+---
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- Android Studio  
+- IntelliJ IDEA  
+- Postman  
+- Firebase  
+- AWS
+
+---
+
+### 🧩 Design Patterns & Practices
+- Singleton  
+- Observer  
+- Repository Pattern  
+- MVVM Architecture  
+- Clean Architecture  
 
 
 ## 🌱 Currently Learning
